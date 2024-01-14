@@ -1,0 +1,13 @@
+.button {
+    width: 300px;
+    height: 40px;
+    background-color: var(--blue);
+    border: 1px solid var(--grey);
+    padding-right: 10px;
+    margin: 5px;
+    border-radius: 50px 50px;
+    color: var(--blue);
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}

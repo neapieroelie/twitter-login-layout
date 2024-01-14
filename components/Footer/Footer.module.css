@@ -1,0 +1,10 @@
+.footer {
+    font-family: 'Work Sans', sans-serif;
+    color: var(--dark-grey);
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    align-self: flex-end;
+    align-items: center;
+}
