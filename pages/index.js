@@ -38,7 +38,7 @@ export default function Home() {
               <span className={styles.appleText}>Sign up with Apple</span>
             </button>
 
-            <p className={styles.or}>or</p>
+            <p className={styles.or}> ━━━━━━━━ or ━━━━━━━━━</p>
 
             <Button title="Create account" textColor="white" borderColor="none"/>
 
